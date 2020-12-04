@@ -1,0 +1,116 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver4",
+            "request": "launch",
+            "mainClass": "driver.Driver4",
+            "projectName": "4thProject_21c05905",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver3",
+            "request": "launch",
+            "mainClass": "driver.Driver3",
+            "projectName": "3rdProject_65695668",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver2",
+            "request": "launch",
+            "mainClass": "driver.Driver2",
+            "projectName": "3rdProject_65695668"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver2",
+            "request": "launch",
+            "mainClass": "driver.Driver2",
+            "projectName": "2ndProject_200e2945",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver",
+            "request": "launch",
+            "mainClass": "driver.Driver",
+            "projectName": "2ndProject_200e2945",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Driver<1stProject_8f2db11b>",
+            "request": "launch",
+            "mainClass": "driver.Driver",
+            "projectName": "1stProject_8f2db11b",
+            "stepFilters": {
+                "skipClasses": [
+                    "$JDK",
+                    "junit.*",
+                    "java.lang.*"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        }
+    ]
+}
